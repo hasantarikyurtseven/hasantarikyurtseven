@@ -1,7 +1,5 @@
 # <div align="center">I'm Hasan Tarık, Full-Stack Developer 👨‍💻 <br> <img src="https://komarev.com/ghpvc/?username=hasantarikyurtseven&&style=flat-square" align="center" /> <br></div>  
 
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/hasantarikyurtseven" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
