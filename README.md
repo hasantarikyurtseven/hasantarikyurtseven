@@ -1,4 +1,7 @@
 # <div align="center">I'm Hasan Tarık, Full-Stack Developer 👨‍💻 </div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hasantarikyurtseven&&style=flat-square" align="center" />
+</div>  
   
 
 🔭 I am currently working on projects using Angular, NestJS, and MongoDB.  
