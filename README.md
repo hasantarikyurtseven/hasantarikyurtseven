@@ -27,7 +27,7 @@
 <br />
 
 ## My Skill Set  
-<table align="center"><tr><td valign="top" width="33%">
+<div align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -59,7 +59,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></div>  
 
 <br/>  
 
