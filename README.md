@@ -31,7 +31,7 @@
 ## Languages and Tools  
 <div align="center">  
   <a href="https://reactnative.dev/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-native-plain-logo.svg" alt="React Native" height="25" />
+  <img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" height="25" />
 </a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
